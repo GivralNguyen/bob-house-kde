@@ -11,7 +11,7 @@ Runtime artwork and generated runtime files are not included. The setup command 
 
 The original Microsoft Bob, for reference
 
-[![Main room of the original Microsoft Bob, hosted by GUIdebook](https://guidebookgallery.org/pics/gui/extra/bob/clock.png)](https://guidebookgallery.org/guis/bob/screenshots)
+[![The Study in the original Microsoft Bob, with Rover (image hosted on Reddit)](https://i.redd.it/70p0jdlwept81.png)](https://i.redd.it/70p0jdlwept81.png)
 
 
 ## Features
@@ -190,7 +190,7 @@ Output: `dist/bob-house-kde-0.3.0-source.zip`
 An explicit source-file allowlist excludes runtime assets, generated `Data.js`,
 generated previews, personal settings, caches, Git history, and previous builds—even after
 you download and build locally. `.gitignore` also excludes downloaded asset inputs and
-outputs. No images are bundled; the README's screenshot is linked from GUIdebook.
+outputs. No images are bundled; the README's screenshot is linked from Reddit.
 Do not force-add ignored runtime files when publishing.
 
 Run downloader and installer tests without downloads or package/desktop changes:
