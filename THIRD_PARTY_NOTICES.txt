@@ -1,0 +1,24 @@
+Implementation code: MIT, see LICENSE.
+
+I claim no ownership or rights to any assets used by this project. All assets belong to their respective owners.
+
+Runtime assets are downloaded separately during setup:
+- Rover animation data: tmafe.com (via tmafemirror.org)
+- Room artwork and layout data: wuffs.org
+
+Exact source URLs and SHA-256 checksums are listed in asset-downloads.json.
+Room images, animation frames, and runtime metadata are generated locally.
+The README's reference screenshot is linked from Wikipedia and is not bundled.
+
+WMF/ACT format reference: Treeki/robert.js
+https://github.com/Treeki/robert.js
+Author credit from the upstream README: Ash Wolf (Treeki).
+The upstream MIT license is copied verbatim to tools/robert-license.txt.
+Upstream revision: 58c135f0ab23811590766dc8ed27c2fc83ce0d76
+License: https://github.com/Treeki/robert.js/blob/58c135f0ab23811590766dc8ed27c2fc83ce0d76/LICENSE
+Author attribution: https://github.com/Treeki/robert.js/blob/58c135f0ab23811590766dc8ed27c2fc83ce0d76/README.md
+The upstream license's 2018 copyright line has no holder name; it is preserved
+unchanged, with the README author credit recorded separately here.
+
+Microsoft Bob and Microsoft are trademarks of Microsoft Corporation.
+This is an independent Microsoft Bob-inspired project.

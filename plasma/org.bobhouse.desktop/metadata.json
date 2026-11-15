@@ -1,0 +1,17 @@
+{
+  "KPackageStructure": "Plasma/Wallpaper",
+  "KPlugin": {
+    "Id": "org.bobhouse.desktop",
+    "Name": "Bob House KDE",
+    "Description": "Microsoft Bob-inspired desktop with interactive rooms and animated Rover; artwork downloaded during setup",
+    "Icon": "user-home",
+    "Version": "0.3.0",
+    "Authors": [
+      {
+        "Name": "Bob House contributors"
+      }
+    ],
+    "License": "MIT"
+  },
+  "X-KDE-ParentApp": "org.kde.plasmashell"
+}

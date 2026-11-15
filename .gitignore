@@ -1,0 +1,8 @@
+/assets/
+/previews/
+/plasma/org.bobhouse.desktop/contents/ui/Data.js
+/.bob-download-*/
+__pycache__/
+*.pyc
+.venv/
+/dist/

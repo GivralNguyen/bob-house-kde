@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kcfg xmlns="http://www.kde.org/standards/kcfg/1.0"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.kde.org/standards/kcfg/1.0 http://www.kde.org/standards/kcfg/1.0/kcfg.xsd">
+  <kcfgfile name=""/>
+  <group name="General">
+    <entry name="AssetRoot" type="String">
+      <label>Local Bob artwork directory</label>
+      <default></default>
+    </entry>
+    <entry name="RoomId" type="String">
+      <label>Current room</label>
+      <default>study</default>
+    </entry>
+    <entry name="Animations" type="Bool">
+      <label>Animate Rover and room objects</label>
+      <default>true</default>
+    </entry>
+    <entry name="ShowLabels" type="Bool">
+      <label>Show clickable object names</label>
+      <default>false</default>
+    </entry>
+  </group>
+</kcfg>

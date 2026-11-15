@@ -1,0 +1,503 @@
+{
+  "version": 1,
+  "files": [
+    {
+      "path": "ROVER.ACT",
+      "url": "https://tmafe.com/classic-ms-actors/ROVER.ACT",
+      "sha256": "ef4f9b9d2c69d87b8f8cb42b6af53f8516d211670a5e027d5c778ce439c31520",
+      "size": 429869
+    },
+    {
+      "path": "rooms/source/data.json",
+      "url": "https://wuffs.org/bob/data.json",
+      "sha256": "e61aa12947d5fd308a29a02487ec2b194ef7a08ab49cbfa7f881a731f478f0f5",
+      "size": 434643
+    },
+    {
+      "path": "rooms/source/10.wmf",
+      "url": "https://wuffs.org/bob/upic/homes/trad/apps/checkbk.wmf",
+      "sha256": "d55f6ce93803245f810a06712668096f05b9eb4549a4eaf29b9ee1ecd41a9da8",
+      "size": 3382
+    },
+    {
+      "path": "rooms/source/100.wmf",
+      "url": "https://wuffs.org/bob/upic/homes/trad/bkgnds/conserv.wmf",
+      "sha256": "162fb70a3f5487694a383e23d93296f63bcef86dbe0c6811b6bc56e5016e819b",
+      "size": 31510
+    },
+    {
+      "path": "rooms/source/101.wmf",
+      "url": "https://wuffs.org/bob/upic/homes/trad/bkgnds/garage.wmf",
+      "sha256": "ff4138f696aec41619d6aab771afd8ead3e269868b0cf91053028eaa53f24ae5",
+      "size": 8534
+    },
+    {
+      "path": "rooms/source/102.wmf",
+      "url": "https://wuffs.org/bob/upic/homes/trad/bkgnds/kids.wmf",
+      "sha256": "3d243c2f609e87d8af867ae155f5d34224e362235d67a35af7dbf2c8543e3cff",
+      "size": 4854
+    },
+    {
+      "path": "rooms/source/103.wmf",
+      "url": "https://wuffs.org/bob/upic/homes/trad/bkgnds/kitchen.wmf",
+      "sha256": "6d51ffa23ad6843b230d68499b1e05b2615056c5d5e95a3e15056dceed1289af",
+      "size": 10102
+    },
+    {
+      "path": "rooms/source/105.wmf",
+      "url": "https://wuffs.org/bob/upic/homes/trad/passages/conserv/door.wmf",
+      "sha256": "f6cebac8ce85c66905a0972af1f0310a7ae670ea1f8fc54cf7767fbfe90a32a8",
+      "size": 1078
+    },
+    {
+      "path": "rooms/source/106.wmf",
+      "url": "https://wuffs.org/bob/upic/homes/trad/passages/garage/door.wmf",
+      "sha256": "63a3d56e192f18f87d38f9e2298308b2c1796f1470e197ff689a945eae34a481",
+      "size": 1142
+    },
+    {
+      "path": "rooms/source/107.wmf",
+      "url": "https://wuffs.org/bob/upic/homes/trad/passages/kids/atticdr.wmf",
+      "sha256": "da21ee0cf46135b202b045d3a05549663c048acc8b97e9549dfb9908a8e115ed",
+      "size": 662
+    },
+    {
+      "path": "rooms/source/108.wmf",
+      "url": "https://wuffs.org/bob/upic/homes/trad/passages/kids/doorrt.wmf",
+      "sha256": "cfb4a5de78046cf5148f1491536ecaea7d1565e2845edfd45a3149e3902af50e",
+      "size": 694
+    },
+    {
+      "path": "rooms/source/109.wmf",
+      "url": "https://wuffs.org/bob/upic/homes/trad/passages/kitchen/doorght.wmf",
+      "sha256": "53a7e7a626851033e1df9a5ffe5786db9a836644541829cba56f26c55b2de1b4",
+      "size": 950
+    },
+    {
+      "path": "rooms/source/11.wmf",
+      "url": "https://wuffs.org/bob/upic/homes/trad/apps/homentbk.wmf",
+      "sha256": "927534994822cfa1b86b802c7717c93a9182fbe681cd26abbf1dfe7fd9320685",
+      "size": 1110
+    },
+    {
+      "path": "rooms/source/110.wmf",
+      "url": "https://wuffs.org/bob/upic/homes/trad/passages/kitchen/doorlft.wmf",
+      "sha256": "0a76e19c1d43dac1326a447f235b5f59693c33bd5a95dcb910c187e8d909225b",
+      "size": 950
+    },
+    {
+      "path": "rooms/source/111.wmf",
+      "url": "https://wuffs.org/bob/upic/homes/trad/decor/box4.wmf",
+      "sha256": "88dcb9bfa856f25f11a959a7569741f2d7755fae158e0025682851766bca9467",
+      "size": 758
+    },
+    {
+      "path": "rooms/source/112.wmf",
+      "url": "https://wuffs.org/bob/upic/homes/trad/passages/attic/latch.wmf",
+      "sha256": "7dc6fea2db035e08a4f1434fc6f9184cf4e2a8a489c0b86a0bc8b74f0d2ae322",
+      "size": 2294
+    },
+    {
+      "path": "rooms/source/114.wmf",
+      "url": "https://wuffs.org/bob/upic/homes/trad/bkgnds/safe.wmf",
+      "sha256": "64d0352b8f6d56d94ee102decdc2b77a352ed234ba49c13188d788682d9cf473",
+      "size": 1846
+    },
+    {
+      "path": "rooms/source/12.wmf",
+      "url": "https://wuffs.org/bob/upic/homes/trad/apps/mailroom.wmf",
+      "sha256": "b1e4aa7cf60dadd737fb3a752fde75961b6a58bcb6b97fd5db4df64891ec5b0d",
+      "size": 2550
+    },
+    {
+      "path": "rooms/source/1200.wmf",
+      "url": "https://wuffs.org/bob/upic/oak/gw2k_oem/fix_0526/view1.wmf",
+      "sha256": "94bd190b0d386984f6f9bf395eaf1cd398d74862f149e22d016ecfb19b24a051",
+      "size": 31574
+    },
+    {
+      "path": "rooms/source/1208.wmf",
+      "url": "https://wuffs.org/bob/upic/oak/gw2k_oem/props/comptr.wmf",
+      "sha256": "bb7c8fd4993ee8e605d65d1d9088086095e553c2b1dc47576a1fef1c81e04f7d",
+      "size": 10774
+    },
+    {
+      "path": "rooms/source/1213.wmf",
+      "url": "https://wuffs.org/bob/upic/oak/gw2k_oem/props/box.wmf",
+      "sha256": "cf16555b20419e30f73542945dc39503071645490310550a7a2da1fe776a7666",
+      "size": 3318
+    },
+    {
+      "path": "rooms/source/1215.wmf",
+      "url": "https://wuffs.org/bob/upic/oak/gw2k_oem/props/chair.wmf",
+      "sha256": "c2c4f606435e140a748ff3a780694ea9c56555698741129bd66747ac3e198bca",
+      "size": 11350
+    },
+    {
+      "path": "rooms/source/1218.wmf",
+      "url": "https://wuffs.org/bob/upic/oak/gw2k_oem/props/flowrpot.wmf",
+      "sha256": "71b39f0affd8e88de243e25581267b0db84356643d5e2ffd62fe3629dc5c44d3",
+      "size": 34806
+    },
+    {
+      "path": "rooms/source/1222.wmf",
+      "url": "https://wuffs.org/bob/upic/oak/gw2k_oem/props/licplte.wmf",
+      "sha256": "31af0be8141bc3117d4ffa6445ca9242e70b8f1880b761f8e287ea26dbb9f329",
+      "size": 5942
+    },
+    {
+      "path": "rooms/source/18.wmf",
+      "url": "https://wuffs.org/bob/upic/homes/trad/apps/address.wmf",
+      "sha256": "b30c9c0bc7420349493b54937c626b0218246518fefe0dd2ff67d578362f3440",
+      "size": 2902
+    },
+    {
+      "path": "rooms/source/23.wmf",
+      "url": "https://wuffs.org/bob/upic/homes/trad/bkgnds/study.wmf",
+      "sha256": "19034c5e3dce2f07177bdcbc408afae847c8e560281ba45d617ef2a4dbb72e72",
+      "size": 8790
+    },
+    {
+      "path": "rooms/source/25.wmf",
+      "url": "https://wuffs.org/bob/upic/homes/trad/passages/study/doorlf.wmf",
+      "sha256": "773cb183cff788e6e518ae56badd418a7b324c56b27b05725c1d91b99ae78419",
+      "size": 918
+    },
+    {
+      "path": "rooms/source/26.wmf",
+      "url": "https://wuffs.org/bob/upic/homes/trad/passages/study/doorrt.wmf",
+      "sha256": "725824646cfc1bae5ef31b71fda1423f9ee2b7d0ea41d2e04c6a71c3824cb67f",
+      "size": 918
+    },
+    {
+      "path": "rooms/source/28.wmf",
+      "url": "https://wuffs.org/bob/upic/homes/trad/decor/plant1.wmf",
+      "sha256": "a77a0c8e3cbb928cc860f267bf5c74bf9348866cb51197f909efe3cef648c0d4",
+      "size": 6550
+    },
+    {
+      "path": "rooms/source/29.wmf",
+      "url": "https://wuffs.org/bob/upic/homes/trad/decor/table.wmf",
+      "sha256": "f154f1adde6bd26c97a13e9f64e5e99fb7d33a1cc6272832dca03b4510884307",
+      "size": 598
+    },
+    {
+      "path": "rooms/source/30.wmf",
+      "url": "https://wuffs.org/bob/upic/homes/trad/decor/deskmat.wmf",
+      "sha256": "d756b47ca630c1c8cca50d97ed73044eb2732c403404d233230735b07b0a6507",
+      "size": 854
+    },
+    {
+      "path": "rooms/source/31.wmf",
+      "url": "https://wuffs.org/bob/upic/homes/trad/decor/can2.wmf",
+      "sha256": "b154e576c775e26c32a9d9efe2dee393540f5a151286d38f7e252c39ef209d1e",
+      "size": 1462
+    },
+    {
+      "path": "rooms/source/32.wmf",
+      "url": "https://wuffs.org/bob/upic/homes/trad/decor/books2.wmf",
+      "sha256": "ea997c046ae877c0713c861b71fb49e764822b758e4b348ca784a27f3753d611",
+      "size": 2806
+    },
+    {
+      "path": "rooms/source/321.wmf",
+      "url": "https://wuffs.org/bob/upic/homes/space/decor/clock4.wmf",
+      "sha256": "b2fc2df9ac5d46037c14f2a7a7b9210aad2f7f35a3eb2bad5b4d8a43c66783c3",
+      "size": 1654
+    },
+    {
+      "path": "rooms/source/34.wmf",
+      "url": "https://wuffs.org/bob/upic/homes/trad/decor/plant2.wmf",
+      "sha256": "b0a67a6bce5f57daa90be48eb0463f1807ca718fba17396b85eacc92e408ff10",
+      "size": 3830
+    },
+    {
+      "path": "rooms/source/40.wmf",
+      "url": "https://wuffs.org/bob/upic/homes/trad/decor/books3.wmf",
+      "sha256": "c7e98a5d2988664d8899ac67be3ec6c6182d39bd65f9ac5cfce6f311e9e5af95",
+      "size": 1238
+    },
+    {
+      "path": "rooms/source/41.wmf",
+      "url": "https://wuffs.org/bob/upic/homes/trad/decor/books4.wmf",
+      "sha256": "c808cbd1da3d8abd8534182368990e1eb3ffbed8f2abf63f30c55d79177991fc",
+      "size": 1238
+    },
+    {
+      "path": "rooms/source/44.wmf",
+      "url": "https://wuffs.org/bob/upic/homes/trad/bkgnds/livingrm.wmf",
+      "sha256": "0626f91d9486d1d86a03bd7f7939da08b327c70e7a1043a741f07ac2e7d82f75",
+      "size": 9942
+    },
+    {
+      "path": "rooms/source/47.wmf",
+      "url": "https://wuffs.org/bob/upic/homes/trad/apps/calendr1.wmf",
+      "sha256": "157461329ee9f8c4a30fbe1115c45bf68f532d0c2d37842410ed7cfefd92a134",
+      "size": 2390
+    },
+    {
+      "path": "rooms/source/48.wmf",
+      "url": "https://wuffs.org/bob/upic/homes/trad/decor/plant3.wmf",
+      "sha256": "10f5bfd511ab9c14e06ba8028126f992e7ae262927208d328bfeb429175b5ce0",
+      "size": 10454
+    },
+    {
+      "path": "rooms/source/49.wmf",
+      "url": "https://wuffs.org/bob/upic/homes/trad/decor/plant4.wmf",
+      "sha256": "0887b0c2fdc689666aadcd9db2925148072427f920caef66c1bd8115fa21db60",
+      "size": 3830
+    },
+    {
+      "path": "rooms/source/50.wmf",
+      "url": "https://wuffs.org/bob/upic/homes/trad/decor/plant6.wmf",
+      "sha256": "be399678b0f42c6df01a748c6dd3d9cefd20e26be0763832511f541d62ce8c4a",
+      "size": 2102
+    },
+    {
+      "path": "rooms/source/51.wmf",
+      "url": "https://wuffs.org/bob/upic/homes/trad/decor/table1.wmf",
+      "sha256": "2978c4f2cabe8b788fc954fbbe5ed243e3b08c975dbd59eb6e9dae63e5e4dc58",
+      "size": 1302
+    },
+    {
+      "path": "rooms/source/52.wmf",
+      "url": "https://wuffs.org/bob/upic/homes/trad/decor/table2.wmf",
+      "sha256": "82f9e11649b27872d878d8c4e5fbb0f11a8e49397eb5297d3a56e5e513fc9c3f",
+      "size": 822
+    },
+    {
+      "path": "rooms/source/528.wmf",
+      "url": "https://wuffs.org/bob/upic/homes/mouse.wmf",
+      "sha256": "8cc0ec9f96cfcbfaa1f68c1b2eb475ac4766d60aef4c96ab9ddaa5fc18dfe768",
+      "size": 1654
+    },
+    {
+      "path": "rooms/source/529.wmf",
+      "url": "https://wuffs.org/bob/upic/homes/mousedor.wmf",
+      "sha256": "5d1e808697fcbe757e199b7148ec941cf46a4763a360d8d39c594907819cd398",
+      "size": 2006
+    },
+    {
+      "path": "rooms/source/53.wmf",
+      "url": "https://wuffs.org/bob/upic/homes/trad/decor/table3.wmf",
+      "sha256": "d7c5625a7f99a3d566bd27b40dc17dc2c3ff777b722f02061602f7a98bac2d82",
+      "size": 2294
+    },
+    {
+      "path": "rooms/source/530.wmf",
+      "url": "https://wuffs.org/bob/upic/homes/mousefr.wmf",
+      "sha256": "a3aef051782b8d1388bbcebb2cfca0fdd81ef6b607e6a0801bfde5676c3517e1",
+      "size": 310
+    },
+    {
+      "path": "rooms/source/532.wmf",
+      "url": "https://wuffs.org/bob/upic/homes/mousert.wmf",
+      "sha256": "1ac4cabff32aeeac9aedd875a772a773da7fdbf61571bda83e76f0ffb700bbe3",
+      "size": 310
+    },
+    {
+      "path": "rooms/source/533.wmf",
+      "url": "https://wuffs.org/bob/upic/homes/safe.wmf",
+      "sha256": "f949d36d1ec481ea1b43b1da6fdbf6948f4c86c55a7d66ebaf68dcc1ce9dc242",
+      "size": 4662
+    },
+    {
+      "path": "rooms/source/534.wmf",
+      "url": "https://wuffs.org/bob/upic/homes/safedoor.wmf",
+      "sha256": "a00425c3f2ba6c3afaa6df0bc2353d92a8ad0207def1849c8b2dccabca6f9fd4",
+      "size": 2326
+    },
+    {
+      "path": "rooms/source/535.wmf",
+      "url": "https://wuffs.org/bob/upic/homes/views/sunset.wmf",
+      "sha256": "b93ec688b618828fb5153d5b352c77081e480b3899f25d4f3e31fca2478fc8cc",
+      "size": 10326
+    },
+    {
+      "path": "rooms/source/54.wmf",
+      "url": "https://wuffs.org/bob/upic/homes/trad/decor/table4.wmf",
+      "sha256": "0955a49e3187e99f4bf654ea915883ac4cfdc9ddaf64dee97b04c31c98229574",
+      "size": 1430
+    },
+    {
+      "path": "rooms/source/542.wmf",
+      "url": "https://wuffs.org/bob/upic/asob/fire1/firex.wmf",
+      "sha256": "3419a64c9c08d1a8d18896bccac06c8699500a31465a6604f312b2e3dd0a0ddf",
+      "size": 1078
+    },
+    {
+      "path": "rooms/source/543.wmf",
+      "url": "https://wuffs.org/bob/upic/homes/views/mount1.wmf",
+      "sha256": "9cc46ca862189dfe31278eb2f2cc74fc55c300f43eb34a90da05b74f3347b0f6",
+      "size": 14390
+    },
+    {
+      "path": "rooms/source/545.wmf",
+      "url": "https://wuffs.org/bob/upic/asob/fire1/screen.wmf",
+      "sha256": "fbb0f71f7c345910748ceba8a71f852db198a74b7abb985af8bc5ffab80c4f04",
+      "size": 1302
+    },
+    {
+      "path": "rooms/source/56.wmf",
+      "url": "https://wuffs.org/bob/upic/homes/trad/decor/table6.wmf",
+      "sha256": "bfae4f8015caea04abee2c1e59e763352e6d7974fe4a034e8cec96eb2baaf68d",
+      "size": 950
+    },
+    {
+      "path": "rooms/source/57.wmf",
+      "url": "https://wuffs.org/bob/upic/homes/trad/decor/table7.wmf",
+      "sha256": "67aa1c401bd8fe135a09143a102d0190bae40b5f8b6fcca531fa447536a9d2ac",
+      "size": 1462
+    },
+    {
+      "path": "rooms/source/58.wmf",
+      "url": "https://wuffs.org/bob/upic/homes/trad/decor/plant5.wmf",
+      "sha256": "9eb6a87ea766c4fc9570c1f6e924a6d750c3f76e662187d1db6c38bace4e02d7",
+      "size": 6774
+    },
+    {
+      "path": "rooms/source/63.wmf",
+      "url": "https://wuffs.org/bob/upic/homes/trad/decor/car.wmf",
+      "sha256": "af5c6c327de24d4aaec046cfa0fdfb570c06e0c5a6b16dd161a1afa8d4fe4e3a",
+      "size": 10198
+    },
+    {
+      "path": "rooms/source/64.wmf",
+      "url": "https://wuffs.org/bob/upic/homes/trad/decor/chair1.wmf",
+      "sha256": "4250d45c964b871739c374191ca8c68ea0e82744bb954729d2b2c4e790fd7c68",
+      "size": 9942
+    },
+    {
+      "path": "rooms/source/65.wmf",
+      "url": "https://wuffs.org/bob/upic/homes/trad/decor/chair2.wmf",
+      "sha256": "f155f2da47982dbec4b9800aff0cbd7376a0e92fcdc92de160e7450e2f00a764",
+      "size": 6326
+    },
+    {
+      "path": "rooms/source/66.wmf",
+      "url": "https://wuffs.org/bob/upic/homes/trad/decor/chair3.wmf",
+      "sha256": "4a99d1f73f0f60b1a8531fa2a167c2d1f59189e30f7cfd2ac2da822a8c09a8f3",
+      "size": 5014
+    },
+    {
+      "path": "rooms/source/71.wmf",
+      "url": "https://wuffs.org/bob/upic/homes/trad/decor/jars.wmf",
+      "sha256": "dc7e8dde0c47e3b54bc4862c0cb6b94a49a60b35ea7f4824750409b12ee47b20",
+      "size": 5590
+    },
+    {
+      "path": "rooms/source/72.wmf",
+      "url": "https://wuffs.org/bob/upic/homes/trad/decor/lamp1.wmf",
+      "sha256": "0fb009ea122a532f81edd77b85f521f05312388c667676dee7a1d83f7ae2526a",
+      "size": 2102
+    },
+    {
+      "path": "rooms/source/73.wmf",
+      "url": "https://wuffs.org/bob/upic/homes/trad/decor/lamp2.wmf",
+      "sha256": "bf8bc32c3bd948567c7ff955395bcd55c179ce6a3a19fe8737926bcf618bc331",
+      "size": 2518
+    },
+    {
+      "path": "rooms/source/731.wmf",
+      "url": "https://wuffs.org/bob/upic/asob/newlava/lamp.wmf",
+      "sha256": "84662dcbb0d928625ff3735372a1249e11923572c2db5adb48d5697094e00f69",
+      "size": 1174
+    },
+    {
+      "path": "rooms/source/77.wmf",
+      "url": "https://wuffs.org/bob/upic/homes/trad/decor/spider.wmf",
+      "sha256": "c62b448ecad602e335b951ec314ea968854ce364e30355c531b2bf3b471fab23",
+      "size": 662
+    },
+    {
+      "path": "rooms/source/783.wmf",
+      "url": "https://wuffs.org/bob/upic/homes/trad/apps/clock3.wmf",
+      "sha256": "2d58ae5d19be7ba149b698ddbb9f4a5710fb72ca022d9a972808d9158cdb2d85",
+      "size": 502
+    },
+    {
+      "path": "rooms/source/785.wmf",
+      "url": "https://wuffs.org/bob/upic/homes/trad/apps/clockx.wmf",
+      "sha256": "a751e444a8a6169838933509808f2f8caf0eb7ed8fc02768c00284d797db7bce",
+      "size": 2422
+    },
+    {
+      "path": "rooms/source/786.wmf",
+      "url": "https://wuffs.org/bob/upic/homes/trad/apps/clock2.wmf",
+      "sha256": "6a0eb09a964cedc75b815b847e12193d6c2d265e0eb15aeb6b23a1fc25421ecc",
+      "size": 662
+    },
+    {
+      "path": "rooms/source/788.wmf",
+      "url": "https://wuffs.org/bob/upic/homes/trad/apps/finance.wmf",
+      "sha256": "0a8f99eb9efeb0c9623d8122c9856a329df6ef2aa7bfd4b4fe4d6f6437692616",
+      "size": 2038
+    },
+    {
+      "path": "rooms/source/792.wmf",
+      "url": "https://wuffs.org/bob/upic/asob/geosafar/gamebrd.wmf",
+      "sha256": "0c2b447516305a0d1202b29d5ab42d1e1aa450148b4882c614475cb82c3b16b7",
+      "size": 2550
+    },
+    {
+      "path": "rooms/source/8.wmf",
+      "url": "https://wuffs.org/bob/upic/homes/trad/apps/letterwt.wmf",
+      "sha256": "cda783a1548b8ef5e1fb3c92fa74d1c478985c98a27cb8f33c971653f2ba0745",
+      "size": 790
+    },
+    {
+      "path": "rooms/source/80.wmf",
+      "url": "https://wuffs.org/bob/upic/homes/trad/decor/tools.wmf",
+      "sha256": "b5226304929881617ebeb7740517573002545c8554029a8049324a23ba2588a1",
+      "size": 2902
+    },
+    {
+      "path": "rooms/source/808.wmf",
+      "url": "https://wuffs.org/bob/upic/asob/plane/planex.wmf",
+      "sha256": "567ad8a3a1d7130984e4d8b0567cb6d1889c3fe36e5974ce646d56b2ed1d1daf",
+      "size": 1942
+    },
+    {
+      "path": "rooms/source/811.wmf",
+      "url": "https://wuffs.org/bob/upic/homes/trad/apps/clock5.wmf",
+      "sha256": "d3c08a7bf96e0e5ee66c9763b70167a637226cdc2d3dcd0cb881706fa4a82628",
+      "size": 6166
+    },
+    {
+      "path": "rooms/source/87.wmf",
+      "url": "https://wuffs.org/bob/upic/homes/trad/apps/calendr2.wmf",
+      "sha256": "31c49c8c9a42cb34b3a33273b274d0f109a98f992d5383b0d747abc53287b9b5",
+      "size": 1270
+    },
+    {
+      "path": "rooms/source/88.wmf",
+      "url": "https://wuffs.org/bob/upic/homes/trad/apps/chest.wmf",
+      "sha256": "dd9040dba554efe4888d6e9ea334766d7149986a8d1febc4ec082537fa2e87e3",
+      "size": 9846
+    },
+    {
+      "path": "rooms/source/90.wmf",
+      "url": "https://wuffs.org/bob/upic/homes/trad/apps/clock1.wmf",
+      "sha256": "c4f925c23824aec3cc4f4e40b26788f0998f3b3ae22642ec9ab514bbbf304eea",
+      "size": 1238
+    },
+    {
+      "path": "rooms/source/92.wmf",
+      "url": "https://wuffs.org/bob/upic/homes/trad/apps/easle.wmf",
+      "sha256": "d980049c804a71474bd215c32d86a40f8d9f11d33c8601068d35931317948411",
+      "size": 2326
+    },
+    {
+      "path": "rooms/source/953.wmf",
+      "url": "https://wuffs.org/bob/upic/homes/trad/blankrm.wmf",
+      "sha256": "0f7e40c78160488c6a353b99e1bec23e7e76dc06b33173ae54d7341b67c01cb0",
+      "size": 214
+    },
+    {
+      "path": "rooms/source/99.wmf",
+      "url": "https://wuffs.org/bob/upic/homes/trad/bkgnds/attic.wmf",
+      "sha256": "a09fbf2833077c71c198e92544a96b35fa11fceb1bf070054bc172e5493f9bda",
+      "size": 9078
+    }
+  ]
+}
