@@ -8,7 +8,7 @@ Runtime assets are downloaded separately during setup:
 
 Exact source URLs and SHA-256 checksums are listed in asset-downloads.json.
 Room images, animation frames, and runtime metadata are generated locally.
-The README's reference screenshot is linked from Wikipedia and is not bundled.
+The README's reference screenshot is linked from GUIdebook (guidebookgallery.org) and is not bundled.
 
 WMF/ACT format reference: Treeki/robert.js
 https://github.com/Treeki/robert.js
